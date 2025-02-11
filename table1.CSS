@@ -1,0 +1,32 @@
+#conteneure{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+
+
+table,th,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+
+    
+    
+}
+th{
+    background-color: rgb(142, 142, 241);
+}
+#r{
+    background-color: rgb(156, 153, 153);
+}
+th,td{
+    width: 90px;
+    height: 30px;
+}
+#e{
+    background-color: whitesmoke;
+}
+#f{
+    background-color:whitesmoke;
+
+}
